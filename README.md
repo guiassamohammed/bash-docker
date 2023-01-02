@@ -1,12 +1,12 @@
-Project purpose: 
-
+**Project purpose: 
+**
 
 This project helps to create  docker containers automatically and it also help to remove the created containers
 
 The script has 2 parameters [-- create ] and [-- drop], when creating/removing  a container you should specify the one of those parameters. 
 
-How the script works: 
-
+**How the script works: 
+**
 To create a container you should run the following command: 
 
  bash docker.sh --create [Number of containers]
