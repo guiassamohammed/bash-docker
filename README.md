@@ -7,6 +7,7 @@ The script has 2 parameters [-- create ] and [-- drop], when creating/removing  
 
 **How the script works: 
 **
+
 To create a container you should run the following command: 
 
  bash docker.sh --create [Number of containers]
