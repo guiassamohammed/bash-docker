@@ -9,8 +9,8 @@ How the script works:
 
 To create a container you should run the following command: 
 
+bash docker.sh --create <number of your containers>
 
-![image](https://user-images.githubusercontent.com/11373339/210242630-d522d9c1-a5a6-4976-975d-8d2757480914.png)
 
 
 
